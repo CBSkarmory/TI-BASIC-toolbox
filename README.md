@@ -1,7 +1,9 @@
 # TI-BASIC-toolbox
 here are some programs for `TI-8[3 4](+)? (SE)?` etc calculators (that support TI-BASIC) 
 
-To edit them, use somehting along the lines of [SourceCoder](https://www.cemetech.net/sc/) (in browser) or TICoder (executable binary) on the computer.
+`.8xp` files can put sent directly to the calculators. Apparently they can't be opened directly in github's website, so i've generated text files (denoted with `.src` extension) for easier veiwing of source code.
+
+To edit `.8xp` files, use somehting along the lines of [SourceCoder](https://www.cemetech.net/sc/) (in browser) or TICoder (executable binary) on the computer.
 Alternatively, download them onto your calculator and edit them there.
 
 |Program     |Description                                   |
