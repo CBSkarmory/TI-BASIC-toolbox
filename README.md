@@ -1,5 +1,5 @@
 # TI-BASIC-toolbox
-here are some programs for `TI-8[3 4](+)? (SE)?` etc calculators (that support TI-BASIC) 
+here are some programs for `TI-8[3 4](+)? (SE)?` etc (the Z80 based ones) calculators (that support TI-BASIC) 
 
 **WARNING**: only files in the `8xp` directory can be sent directly to the calculators. Files in `src` are just text and will **not** run if sent to calculators; they exist only for conveniently veiwing the source code. 
 
