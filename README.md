@@ -19,3 +19,4 @@ Alternatively, download them onto your calculator and edit them there; `8xp` fil
 |prgmSLOPE   | calculates slope from two 2-D points|
 |pgrmINTREST | compound interest calculator|
 |pgrmPKMNSTAT| Pokémon stat calculator|
+|pgrmTRIANGLE| Triangle Utilities|
