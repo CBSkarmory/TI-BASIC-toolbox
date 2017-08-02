@@ -30,19 +30,19 @@ Alternatively, download them onto your calculator and edit them there; `8xp` fil
 
 |Prompt|Description                                   |
 |------|:---------------------------------------------|
-|ATK   | attacking stat of attacker -- this will be spATK for special attacks. This should include boosts. *Use `pgrmPKMNSTAT` to calculate stats (using base stat, EVs, etc)*|
+|ATK   | attacking stat of attacker -- this will be spATK for special attacks. This should include boosts. *Use `pgrmPKMNSTAT` to calculate stats (using base stat, EVs, etc)*.|
 |BP    | base power of the move|
-|WB    | weather boost (as a multiplier) -- usually `1`. For example, a water attack in rain would get a 2x multiplier, so enter `2` in that case|
+|WB    | weather boost (as a multiplier) -- usually `1`. For example, a water attack in rain would get a 2x multiplier, so enter `2` in that case.|
 |AB    | ability boost (as a multiplier) -- usually `1`. For example, a pokémon with the Steelworker ability using a steel-type attack gets a 1.5x multiplier, so enter `1.5` in that case.|
-|STAB  | **S**ame **T**ype **A**ttack **B**onus -- If no [STAB](https://bulbapedia.bulbagarden.net/wiki/Same-type_attack_bonus), enter `1`. For example, a flying-type attack from a flying-type pokémon gets a 1.5x boost, so enter `1.5` in that case. |
+|STAB  | **S**ame **T**ype **A**ttack **B**onus -- If no [STAB](https://bulbapedia.bulbagarden.net/wiki/Same-type_attack_bonus), enter `1`. For example, a flying-type attack from a flying-type pokémon gets a 1.5x boost, so enter `1.5` in that case.|
 |lv    | level of attacker|
-|HP    | HP stat of defender -- *Do not use `pgrmPKMNSTAT` for HP; use [insert later] instead|
+|HP    | HP stat of defender -- *Do not use `pgrmPKMNSTAT` for HP; use [insert later] instead.|
 |DEF   | defending stat of defender -- this will be spDEF for special attacks. This should include boosts.|
 |SRD   | [stealth rock](https://bulbapedia.bulbagarden.net/wiki/Stealth_Rock_(move)) damage taken by defender (multiplier) -- Enter `1` for neutral to rock, `2` for weak to rock, `4` for 4x weak to rock, `0.5` for resists rock, and `0.25` for 4x resist|
 |Lefties?| does the defender have leftovers? `Y` means yes and `N` means no.|
 |Grounded?| is the defender grounded (take damage from [spikes](https://bulbapedia.bulbagarden.net/wiki/Spikes_(move)))? -- flying-types and levitating pokémon are not grounded, except for under intense [gravity](https://bulbapedia.bulbagarden.net/wiki/Gravity_(move)) `Y` means yes and `N` means No.|
 
-###outputs
+### outputs
 
 In addition to a damage range (and as percentage), the calculator will (if applicable) display info denoting (potential) OHKO / 2KHO with stealth rocks / 1-3 layers of spikes perhaps with leftovers accounted for 2HKOs. An example output would be 
 
