@@ -1,7 +1,7 @@
 # TI-BASIC-toolbox
 here are some programs for `TI-8[3 4](+)? (SE)?` etc calculators (that support TI-BASIC) 
 
-**WARNING**: only files in the `8xp` directory can be sent directly to the calculators. Files in `src` are just text and will **not** run if sent to calculators; they exist only for conveniently veiwing the source code. 
+**WARNING**: only files in the `8xp` directory can be sent directly to the calculators. *Files in `src` are just text and will **not** run if sent to calculators; they exist only for conveniently veiwing the source code.*
 
 *note: after programs are sent to the calculator, they may be archived by default. This prevents them from being delted when clearing RAM. To use them, unarchive them by going to `[2nd] [mem] [6]` and then the program, from `[pgrm]`. For example, when unarchiving pgrmINTREST, you should get the command `unarchive pgrmINTREST` with the steps indicated above, then hit enter."
 
@@ -18,3 +18,4 @@ Alternatively, download them onto your calculator and edit them there; `8xp` fil
 |prgmQUADFORM| solves quadratic formula, shows some other useful info|
 |prgmSLOPE   | calculates slope from two 2-D points|
 |pgrmINTREST | compound interest calculator|
+|pgrmPKMNSTAT| Pokémon stat calculator|
