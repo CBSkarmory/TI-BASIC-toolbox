@@ -19,7 +19,7 @@ Alternatively, download them onto your calculator and edit them there; `8xp` fil
 |prgmSLOPE   | calculates slope from two 2-D points|
 |pgrmINTREST | compound interest calculator|
 |pgrmPKMNSTAT| Pokémon stat calculator|
-|pgrmDAMAGE  | *Pokémon damage calculator* (see_damage_calc_usage).md|
+|pgrmDAMAGE  | *Pokémon damage calculator* (see section below)|
 |pgrmTRIANGLE| Triangle Utilities|
 |pgrmFOIL    | FOIL calculator, shows work|
 
@@ -41,3 +41,13 @@ Alternatively, download them onto your calculator and edit them there; `8xp` fil
 |SRD   | [stealth rock](https://bulbapedia.bulbagarden.net/wiki/Stealth_Rock_(move)) damage taken by defender (multiplier) -- Enter `1` for neutral to rock, `2` for weak to rock, `4` for 4x weak to rock, `0.5` for resists rock, and `0.25` for 4x resist|
 |Lefties?| does the defender have leftovers? `Y` means yes and `N` means no.|
 |Grounded?| is the defender grounded (take damage from [spikes](https://bulbapedia.bulbagarden.net/wiki/Spikes_(move)))? -- flying-types and levitating pokémon are not grounded, except for under intense [gravity](https://bulbapedia.bulbagarden.net/wiki/Gravity_(move)) `Y` means yes and `N` means No.|
+
+###outputs
+
+In addition to a damage range (and as percentage), the calculator will (if applicable) display info denoting (potential) OHKO / 2KHO with stealth rocks / 1-3 layers of spikes perhaps with leftovers accounted for 2HKOs. An example output would be 
+>243.511 to 286.4 
+>Damage
+>72.9076 to 85.77
+>percent
+>potential OHKO 
+>after SR.
