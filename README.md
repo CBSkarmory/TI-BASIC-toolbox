@@ -20,3 +20,4 @@ Alternatively, download them onto your calculator and edit them there; `8xp` fil
 |pgrmINTREST | compound interest calculator|
 |pgrmPKMNSTAT| Pokémon stat calculator|
 |pgrmTRIANGLE| Triangle Utilities|
+|pgrmFOIL    | FOIL calculator, shows work|
