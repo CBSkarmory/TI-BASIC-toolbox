@@ -41,4 +41,3 @@ Alternatively, download them onto your calculator and edit them there; `8xp` fil
 |SRD   | [stealth rock](https://bulbapedia.bulbagarden.net/wiki/Stealth_Rock_(move)) damage taken by defender (multiplier) -- Enter `1` for neutral to rock, `2` for weak to rock, `4` for 4x weak to rock, `0.5` for resists rock, and `0.25` for 4x resist|
 |Lefties?| does the defender have leftovers? `Y` means yes and `N` means no.|
 |Grounded?| is the defender grounded (take damage from [spikes](https://bulbapedia.bulbagarden.net/wiki/Spikes_(move)))? -- flying-types and levitating pokémon are not grounded, except for under intense [gravity](https://bulbapedia.bulbagarden.net/wiki/Gravity_(move)) `Y` means yes and `N` means No.|
-|
