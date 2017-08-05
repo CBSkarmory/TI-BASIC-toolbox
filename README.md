@@ -58,3 +58,5 @@ In addition to a damage range (and as percentage), the calculator will (if appli
 >
 >potential OHKO 
 >after SR.
+
+where the defender is weak to stealth rocks. Thus, stealth rocks would damage the defender down to 75% hp, putting it in the potential OHKO range of 72-85%.
