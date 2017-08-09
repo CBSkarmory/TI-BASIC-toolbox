@@ -42,7 +42,7 @@ Alternatively, download them onto your calculator and edit them there; `8xp` fil
 |Lefties?| does the defender have leftovers? `Y` means yes and `N` means no.|
 |Grounded?| is the defender grounded (take damage from [spikes](https://bulbapedia.bulbagarden.net/wiki/Spikes_(move)))? -- flying-types and levitating pokémon are not grounded, except for under intense [gravity](https://bulbapedia.bulbagarden.net/wiki/Gravity_(move)) `Y` means yes and `N` means No.|
 
-###outputs
+### outputs
 
 In addition to a damage range (and as percentage), the calculator will (if applicable) display info denoting (potential) OHKO / 2KHO with stealth rocks / 1-3 layers of spikes perhaps with leftovers accounted for 2HKOs. An example output would be 
 >243.511 to 286.4 
