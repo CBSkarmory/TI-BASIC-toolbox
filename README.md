@@ -1,4 +1,6 @@
 # TI-BASIC-toolbox
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 here are some programs for `TI-8[3 4](+)? (SE)?` etc calculators (that support TI-BASIC) 
 
 **WARNING**: only files in the `8xp` directory can be sent directly to the calculators. *Files in `src` are just text and will **not** run if sent to calculators; they exist only for conveniently veiwing the source code.*
