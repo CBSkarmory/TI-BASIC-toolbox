@@ -49,16 +49,12 @@ Alternatively, download them onto your calculator and edit them there; `8xp` fil
 In addition to a damage range (and as percentage), the calculator will (if applicable) display info denoting (potential) OHKO / 2KHO with stealth rocks / 1-3 layers of spikes perhaps with leftovers accounted for 2HKOs. An example output would be 
 
 *(on TI-84's 16 char wide screen)*
-
->243.511 to 286.4 
->
->Damage
->
->72.9076 to 85.77
->
->percent
->
->potential OHKO 
->after SR.
-
+```
+243.511 to 286.4 
+Damage
+72.9076 to 85.77
+percent
+potential OHKO 
+after SR.
+```
 where the defender is weak to stealth rocks. Thus, stealth rocks would damage the defender down to 75% hp, putting it in the potential OHKO range of 72-85%.
